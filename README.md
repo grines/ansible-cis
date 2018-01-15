@@ -1,4 +1,4 @@
-ansible-libvirt
+ansible-cis
 =========
 
 This role applies the CIS benchmarks for Ubuntu 16.04. This is copied almost verbatim from https://github.com/awailly/cis-ubuntu-ansible
